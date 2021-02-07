@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mazixin.top</id>
+    <id>http://mazixin.top</id>
     <title>Gridea</title>
-    <updated>2021-02-07T12:28:24.692Z</updated>
+    <updated>2021-02-07T12:29:00.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mazixin.top"/>
-    <link rel="self" href="https://mazixin.top/atom.xml"/>
+    <link rel="alternate" href="http://mazixin.top"/>
+    <link rel="self" href="http://mazixin.top/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://mazixin.top/images/avatar.png</logo>
-    <icon>https://mazixin.top/favicon.ico</icon>
+    <logo>http://mazixin.top/images/avatar.png</logo>
+    <icon>http://mazixin.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
 </feed>
